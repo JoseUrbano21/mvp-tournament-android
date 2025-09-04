@@ -16,12 +16,14 @@ Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android 
 La app del PMT pretende mantener al usuario al tanto de las novedades del torneo, a la vez que hacerle partícipe en la toma de decisiones acerca del futuro de este universo:
 
 <div align="center">
+ 
 | Información | Inclusión |
 |-------------|-----------|
 |Participantes/Desafíos por temporada|Votación de favoritos|
 |Resultados por desafío|Selección de futuros participantes|
 |Progreso de los participantes|Valoración del desempeño de los participantes|
 |Ranking final|Creación de comunidad|
+
 </div>
 
 ### **Tecnología**
@@ -33,11 +35,14 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
  ## 🛠️ Tecnologías
 
 Frontend:
+<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
 ![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-4285F4?logo=android&logoColor=white&style=for-the-badge)
 ![Material 3](https://img.shields.io/badge/Material%203-757575?logo=materialdesign&logoColor=white&style=for-the-badge)
+<br>
 Backend en construcción:
+<br>
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
