@@ -15,12 +15,9 @@ _August 2025, My coded universe_ :sparkles:
 
 ### **About the project** :trophy:
 
-***
 Pokémon MVP Tournament (or PMT for friends) is an Android application in development which simulates a fictional competitive tournament. It was born as a personal project driven by creativity, expression, and a passion for entertainment, where I combine my learning about Multiplatform Applications Development with a simulated tournament: _Pokémon_ is the content, , _RuPaul's Drag Race_ gave me the form and _this app_ is the medium.
 
 ### **About the app** :iphone:
-
-***
 
 The PMT app pretends to keep the users up to date about the tournament news, and make them take part in the decision makings about the future of this universe:
 
@@ -36,8 +33,6 @@ The PMT app pretends to keep the users up to date about the tournament news, and
 </div>
 
 ### **Technology** :computer:
-
- ***
 
 Frontend:
 <br>
@@ -57,7 +52,6 @@ Backend:
 
 ### **Next steps** :paw_prints:
 
-***
 Although the app is in development, take a look at the checklist to know which are the next steps:
 
 ##### _Frontend: visible functionalities_
