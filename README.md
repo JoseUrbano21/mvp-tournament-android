@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](logo.png)
+![Logo](Logo.png)
 
 # **Pokémon MVP Tournament**
 
