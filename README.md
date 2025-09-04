@@ -1,5 +1,7 @@
 <div align="center">
 
+🌐 Disponible en: [Español](README.es.md) | [English](README.en.md)
+
 <img src="Logo.png" height="100">
 
 # **Pokémon MVP Tournament**
@@ -11,7 +13,7 @@ _Agosto 2025, Mi universo codificado_ :sparkles:
 ### **Sobre el proyecto** :trophy:
 
 ***
-Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android en desarrollo que simula un torneo competitivo ficticio. PMT nace de la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma y _esta app_ es el medio.
+Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android en desarrollo que simula un torneo competitivo ficticio. Nace como un proyecto personal fruto de la creación, expresión y pasión por el entretenimiento, donde combino mi aprendizaje en DAM con un torneo simulado: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma y _esta app_ es el medio.
 
 ### **Sobre la app** :iphone:
 
@@ -44,7 +46,7 @@ Frontend:
 <br>
 
 Backend:
-🚧en construcción🚧
+🚧 En construcción 🚧
 <br>
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
@@ -56,13 +58,13 @@ Backend:
 
 Aunque la app aún está en desarrollo, echa un vistazo a la checklist para saber cuáles serán los próximos pasos:
 
-##### _Frontend:_
+##### _Frontend: funcionalidades visibles_
 - [ ] Validación en login y pantalla de nuevo registro de usuario
 - [ ] Pantalla de información de la primera temporada del torneo
 - [ ] Pantalla de usuario con sus datos personales y acceso a encuestas sobre el torneo
 
-##### _Backend:_
-🚧En construcción🚧
+##### _Backend: API y persistencia_
+🚧 En construcción 🚧
 
 
 ### **Inspiración y Motivación** :sparkles:
