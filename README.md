@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 Disponible en:
+🌐 Available in:
 
 [![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
@@ -11,31 +11,31 @@
 
 </div>
 
-_Agosto 2025, Mi universo codificado_ :sparkles:
+_August 2025, My coded universe_ :sparkles:
 
-### **Sobre el proyecto** :trophy:
-
-***
-Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android en desarrollo que simula un torneo competitivo ficticio. Nace como un proyecto personal fruto de la creación, expresión y pasión por el entretenimiento, donde combino mi aprendizaje en DAM con un torneo simulado: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma y _esta app_ es el medio.
-
-### **Sobre la app** :iphone:
+### **About the project** :trophy:
 
 ***
+Pokémon MVP Tournament (or PMT for friends) is an Android application in development which simulates a fictional competitive tournament. It was born as a personal project driven by creativity, expression, and a passion for entertainment, where I combine my learning about Multiplatform Applications Development with a simulated tournament: _Pokémon_ is the content, , _RuPaul's Drag Race_ gave me the form and _this app_ is the medium.
 
-La app del PMT pretende mantener al usuario al tanto de las novedades del torneo, a la vez que hacerle partícipe en la toma de decisiones acerca del futuro de este universo:
+### **About the app** :iphone:
+
+***
+
+The PMT app pretends to keep the users up to date about the tournament news, and make them take part in the decision makings about the future of this universe:
 
 <div align="center">
  
-| Información :information_source: | Inclusión :raising_hand: |
+| Information :information_source: | Inclusion :raising_hand: |
 |-------------|-----------|
-|Participantes/Desafíos por temporada|Votación de favoritos|
-|Resultados por desafío|Selección de futuros participantes|
-|Progreso de los participantes|Valoración del desempeño de los participantes|
-|Ranking final|Creación de comunidad|
+|Contestants/Challenges per season|Voting for favorites|
+|Challenges results|Selecting future contestants|
+|Contestants’ progression|Evaluating contestants’ performance|
+|Final ranking|Building community|
 
 </div>
 
-### **Tecnología** :computer:
+### **Technology** :computer:
 
  ***
 
@@ -49,30 +49,30 @@ Frontend:
 <br>
 
 Backend:
-🚧 En construcción 🚧
+🚧 Under construction 🚧
 <br>
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
-### **Siguientes pasos** :paw_prints:
+### **Next steps** :paw_prints:
+
+***
+Although the app is in development, take a look at the checklist to know which are the next steps:
+
+##### _Frontend: visible functionalities_
+- [ ] Login validation and Register new user screen
+- [ ] First season information screen
+- [ ] User screen with user personal data and access to tournament polls
+
+##### _Backend: API and persistence_
+🚧 Under construction 🚧
+
+
+### **Inspiration and Motivation** :sparkles:
 
 ***
 
-Aunque la app aún está en desarrollo, echa un vistazo a la checklist para saber cuáles serán los próximos pasos:
+As a highly creative person, I find in entertainment my main way of expression, individual and artistically, and in competition a stage for showing my abilities.
+That is why this project allows me to combine the logic in the software development with the emotion of the competitive tournaments, with the goal that users not only see the data, but also live the full experience of a competitive reality show.
 
-##### _Frontend: funcionalidades visibles_
-- [ ] Validación en login y pantalla de nuevo registro de usuario
-- [ ] Pantalla de información de la primera temporada del torneo
-- [ ] Pantalla de usuario con sus datos personales y acceso a encuestas sobre el torneo
-
-##### _Backend: API y persistencia_
-🚧 En construcción 🚧
-
-
-### **Inspiración y Motivación** :sparkles:
-
-***
-
-Como persona altamente creativa, encuentro en el entretenimiento mi mayor medio de expresión individual y artística, y en la competición un escenario para mostrar mis habilidades.
-Es por ello que este proyecto me permite mezclar la lógica del desarrollo de software con la emoción de los torneos competitivos, con el objetivo de que el usuario no solo vea datos, sino que viva la experiencia de un reality competitivo.
