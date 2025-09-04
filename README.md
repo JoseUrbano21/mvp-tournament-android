@@ -36,13 +36,16 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
 
 Frontend:
 <br>
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
 ![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-4285F4?logo=android&logoColor=white&style=for-the-badge)
 ![Material 3](https://img.shields.io/badge/Material%203-757575?logo=materialdesign&logoColor=white&style=for-the-badge)
 <br>
+
 Backend en construcción:
 <br>
+
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
