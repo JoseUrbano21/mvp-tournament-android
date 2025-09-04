@@ -2,14 +2,14 @@
 
 # **Pokémon MVP Tournament**
 
-_Agosto 2025, Mi universo codificado_
+_Agosto 2025, Mi universo codificado_ :sparkles:
 
-### **Sobre el proyecto**
+### **Sobre el proyecto** :trophy:
 
 ***
 Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android en desarrollo que simula un torneo competitivo ficticio. PMT nace de la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma y _esta app_ es el medio.
 
-### **Sobre la app**
+### **Sobre la app** :iphone:
 
 ***
 
@@ -17,7 +17,7 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
 
 <div align="center">
  
-| Información | Inclusión |
+| Información :information_source: | Inclusión :raising_hand: |
 |-------------|-----------|
 |Participantes/Desafíos por temporada|Votación de favoritos|
 |Resultados por desafío|Selección de futuros participantes|
@@ -26,13 +26,9 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
 
 </div>
 
-### **Tecnología**
+### **Tecnología** :computer:
 
  ***
- 
- La app del PMT ha sido desarrollada con:
-
- ## 🛠️ Tecnologías
 
 Frontend:
 <br>
@@ -43,13 +39,14 @@ Frontend:
 ![Material 3](https://img.shields.io/badge/Material%203-757575?logo=materialdesign&logoColor=white&style=for-the-badge)
 <br>
 
-Backend en construcción:
+Backend:
+🚧en construcción🚧
 <br>
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
-### **Siguientes pasos**
+### **Siguientes pasos** :paw_prints:
 
 ***
 
@@ -60,10 +57,11 @@ Aunque la app aún está en desarrollo, echa un vistazo a la checklist para sabe
 - [ ] Pantalla de información de la primera temporada del torneo
 - [ ] Pantalla de usuario con sus datos personales y acceso a encuestas sobre el torneo
 
-##### _Backend en construcción_
+##### _Backend:_
+🚧En construcción🚧
 
 
-### **Inspiración y Motivación**
+### **Inspiración y Motivación** :sparkles:
 
 ***
 
