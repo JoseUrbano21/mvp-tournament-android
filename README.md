@@ -1,6 +1,8 @@
 <div align="center">
 
-🌐 Disponible en: [![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md) | [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+🌐 Disponible en:
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
 
 <img src="Logo.png" height="100">
 
