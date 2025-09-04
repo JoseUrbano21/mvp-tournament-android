@@ -7,7 +7,7 @@ _Agosto 2025, Mi universo codificado_
 ### **Sobre el proyecto**
 
 ***
-El _Big Bang_ de Pokémon MVP Tournament (o PMT para los amigos) es la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma ==y esta app es el medio==.
+El _Big Bang_ de Pokémon MVP Tournament (o PMT para los amigos) es la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma ''y esta app es el medio''.
 
 ### **Sobre la app**
 
