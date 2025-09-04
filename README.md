@@ -1,6 +1,10 @@
-![Logo](/ruta/a/la/imagen.jpg)
+<div align="center">
+
+![Logo](logo.png)
 
 # **Pokémon MVP Tournament**
+
+</div>
 
 _Agosto 2025, Mi universo codificado_ :sparkles:
 
