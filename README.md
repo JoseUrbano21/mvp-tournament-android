@@ -2,6 +2,10 @@
 
 🌐 Disponible en: [Español](README.es.md) | [English](README.en.md)
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+
+
 <img src="Logo.png" height="100">
 
 # **Pokémon MVP Tournament**
