@@ -7,7 +7,7 @@ _Agosto 2025, Mi universo codificado_
 ### **Sobre el proyecto**
 
 ***
-El _Big Bang_ de Pokémon MVP Tournament (o PMT para los amigos) es la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma ==y esta app es el medio==.
+Pokémon MVP Tournament (o PMT para los amigos) es una aplicación para Android en desarrollo que simula un torneo competitivo ficticio. PMT nace de la necesidad de creación y expresión, del pensamiento fuera de la caja y de la pasión por el entretenimiento. Es un torneo simulado donde aplico mi propio sistema: _Pokémon_ es el contenido, _RuPaul's Drag Race_ me dio la forma y _esta app_ es el medio.
 
 ### **Sobre la app**
 
@@ -19,7 +19,7 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
 |Participantes/Desafíos por temporada|Votación de favoritos|
 |Resultados por desafío|Selección de futuros participantes|
 |Progreso de los participantes|Valoración del desempeño de los participantes|
-|Ranking final|Compartición de opiniones en la comunidad YouTube/Reddit/Discord|
+|Ranking final|Creación de comunidad|
 
 ### **Tecnología**
 
@@ -28,6 +28,11 @@ La app del PMT pretende mantener al usuario al tanto de las novedades del torneo
  La app del PMT ha sido desarrollada con:
  - Kotlin
  - Jetpack Compose
+ - Navigation Compose
+ - Material Design 3
+ Backend en construcción con:
+ - Springboot (API Rest)
+ - Retrofit (consumo de la API desde Android)
 
 ### **Siguientes pasos**
 
@@ -47,8 +52,5 @@ Aunque la app aún está en desarrollo, echa un vistazo a la checklist para sabe
 
 ***
 
-Como persona altamente creativa, encuentro en el entretenimiento mi mayor medio de expresión individual y artística, interesándome y nutriéndome de todo aquello que presenta identidad y autenticidad.
-
-Por otro lado, la tecnología hoy en día avanza vertiginosamente y ofrece al mundo innumerables opciones para mejorar nuestro día a día y entretenernos a través de distintos medios.
-
-Es aquí donde brilla el pensamiento fuera de la caja, motivándome a desarrollar un software que me permita expresar la pasión e inspiración que me suscitan _Pokémon_ y _Rupaul's Drag Race_.
+Como persona altamente creativa, encuentro en el entretenimiento mi mayor medio de expresión individual y artística, y en la competición un escenario para mostrar mis habilidades.
+Es por ello que este proyecto me permite mezclar la lógica del desarrollo de software con la emoción de los torneos competitivos, con el objetivo de que el usuario no solo vea datos, sino que viva la experiencia de un reality competitivo dentro del mundo Pokémon.
