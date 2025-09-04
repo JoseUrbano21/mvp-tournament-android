@@ -65,7 +65,7 @@ Although the app is in development, take a look at the checklist to know which a
 - [ ] First season information screen
 - [ ] User screen with user personal data and acces to tournament polls
 
-##### _Backend: API and persistence _
+##### _Backend: API and persistence_
 🚧 Under construction 🚧
 
 
