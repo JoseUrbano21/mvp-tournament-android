@@ -53,9 +53,9 @@ Backend en construcción:
 Aunque la app aún está en desarrollo, echa un vistazo a la checklist para saber cuáles serán los próximos pasos:
 
 ##### _Frontend:_
-[ ] Validación en login y pantalla de nuevo registro de usuario
-[ ] Pantalla de información de la primera temporada del torneo
-[ ] Pantalla de usuario con sus datos personales y acceso a encuestas sobre el torneo
+- [ ] Validación en login y pantalla de nuevo registro de usuario
+- [ ] Pantalla de información de la primera temporada del torneo
+- [ ] Pantalla de usuario con sus datos personales y acceso a encuestas sobre el torneo
 
 ##### _Backend en construcción_
 
