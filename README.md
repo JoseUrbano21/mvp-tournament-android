@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Logo.png" height="200">
+<img src="Logo.png" height="00">
 
 # **Pokémon MVP Tournament**
 
