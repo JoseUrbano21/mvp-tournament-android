@@ -75,4 +75,4 @@ Aunque la app aún está en desarrollo, echa un vistazo a la checklist para sabe
 ***
 
 Como persona altamente creativa, encuentro en el entretenimiento mi mayor medio de expresión individual y artística, y en la competición un escenario para mostrar mis habilidades.
-Es por ello que este proyecto me permite mezclar la lógica del desarrollo de software con la emoción de los torneos competitivos, con el objetivo de que el usuario no solo vea datos, sino que viva la experiencia de un reality competitivo dentro del mundo Pokémon.
+Es por ello que este proyecto me permite mezclar la lógica del desarrollo de software con la emoción de los torneos competitivos, con el objetivo de que el usuario no solo vea datos, sino que viva la experiencia de un reality competitivo.
